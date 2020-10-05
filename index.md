@@ -7,10 +7,12 @@ title: Zsombor Vermes
 
 # Zsombor Vermes
 
-Software Developer.
+Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">zsomborvermes@gmail.com</a>
+<a>1995.02.20</a>
+| <a href="zsomborvermes@gmail.com">zsomborvermes@gmail.com</a>
+| <a>079 051 0563</a>
 | <a href="https://bit.ly/3ldSijN">Linkedin: https://bit.ly/3ldSijN</a>
 </div>
 
