@@ -35,17 +35,17 @@ __FRONTEND DEVELOPER INTERN__
 
 ### Education
 
-`nov 2018 - mar 2019`
-__GREENFOX ACADEMY__
-
-- Web developer
-- Bootcamp
-
 `2017 - now`
 __LINNEAUS UNIVERSITY OF VAXJO__
 
 - Software Technology
 - BA degree
+
+`nov 2018 - mar 2019`
+__GREEN FOX ACADEMY__
+
+- Web developer
+- Bootcamp
 
 
 ### Languages
@@ -61,6 +61,23 @@ __SWEDISH__
 __HUNGARIAN__
 
 - Native
+
+## Skills
+
+__PROGRAMMING LANGUAGES__
+- PHP, Java, Javascript
+
+__DATA MANAGEMENT__
+- MySQL, MongoDB
+
+__DATA MODELLING__
+- JSON, XML
+
+__WEB TECHNOLOGIES__
+- REST, HTML5, CSS
+
+__OTHER__
+- Docker, Linux, Git, Github, JIRA
 
 
 <!-- ### Footer
