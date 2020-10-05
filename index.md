@@ -1,19 +1,16 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zsombor Vermes
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zsombor Vermes
+Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">zsomborvermes@gmail.com</a>
+| <a href="https://www.linkedin.com/in/zsombor-vermes-318330178/">My Linkedin page</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
+An ambitious developer, who is striving to write clean and easily maintainable code. Valuable team member with experience in refactoring and optimizing legacy systems. Mainly interested in backend development, but always ready to expand his knowledge.
 
 ### Specialized in
 
