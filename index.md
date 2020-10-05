@@ -64,20 +64,15 @@ __HUNGARIAN__
 
 ## Skills
 
-__PROGRAMMING LANGUAGES__
-- PHP, Java, Javascript
+__PROGRAMMING LANGUAGES:__ PHP, Java, Javascript
 
-__DATA MANAGEMENT__
-- MySQL, MongoDB
+__DATA MANAGEMENT:__ MySQL, MongoDB
 
-__DATA MODELLING__
-- JSON, XML
+__DATA MODELLING:__ JSON, XML
 
-__WEB TECHNOLOGIES__
-- REST, HTML5, CSS
+__WEB TECHNOLOGIES:__ REST, HTML5, CSS
 
-__OTHER__
-- Docker, Linux, Git, Github, JIRA
+__OTHER:__ Docker, Linux, Git, Github, JIRA
 
 
 <!-- ### Footer
