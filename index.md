@@ -17,7 +17,7 @@ Software Developer
 
 ### About
 
-An ambitious developer, who is striving to write clean and easily maintainable code. Valuable team member with experience in refactoring and optimizing legacy systems. Mainly interested in backend development, but always ready to expand his knowledge.
+An ambitious developer, who is striving to write clean and easily maintainable code. Experienced in backend development and always ready to improve himself.
 
 
 ## Work experience
