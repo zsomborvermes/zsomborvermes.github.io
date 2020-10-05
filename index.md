@@ -22,9 +22,22 @@ An ambitious developer, who is striving to write clean and easily maintainable c
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
+## Work experience
+`may 2019 - sep 2020`
+__BACKEND DEVELOPER__
+
+- ADEVINTA CLASSIFIED MEDIA HUNGARY KFT.
+- Tech: PHP, MYSQL, DOCKER, YII2, JAVASCRIPT, KEYCLOAK
+
+`mar 2019 - may 2019`
+__FRONTEND DEVELOPER INTERN__
+
+- GREENFOX ACADEMY
+- Tech: VUE.JS
+
 ## Education
 
-`2018 oct - 2019 jan`
+`nov 2018 - mar 2019`
 __GREENFOX ACADEMY__
 
 - Web developer
