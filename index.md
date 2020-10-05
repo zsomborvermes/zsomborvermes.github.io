@@ -25,14 +25,19 @@ An ambitious developer, who is striving to write clean and easily maintainable c
 `may 2019 - sep 2020`
 __BACKEND DEVELOPER__
 
-- ADEVINTA CLASSIFIED MEDIA HUNGARY KFT.
+- Adevinta Classified Media Hungary Kft.
 - Tech: PHP, MySQL, Docker, yii2, Javascript, Keycloak
 
 `mar 2019 - may 2019`
 __FRONTEND DEVELOPER INTERN__
 
-- GREENFOX ACADEMY
+- Greenfox Academy
 - Tech: vue.js
+
+`2017-2018`
+__WAREHOUSE WORKER__
+
+- Färggrossen i Nybro AB
 
 ### Education
 
