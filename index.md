@@ -3,7 +3,7 @@ layout: cv
 title: Zsombor Vermes
 ---
 
-<img src="https://uploads-ssl.webflow.com/5e208b658b900b5c02df772d/5f7af708feb0393d1e74d2e7_cv_pic%20(2).jpeg"/>
+<img src="https://uploads-ssl.webflow.com/5e208b658b900b5c02df772d/5f7b0cac93f475e4233d0441_cv_pic%20(3).jpeg"/>
 
 # Zsombor Vermes
 
