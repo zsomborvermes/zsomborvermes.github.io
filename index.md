@@ -25,13 +25,13 @@ An ambitious developer, who is striving to write clean and easily maintainable c
 __BACKEND DEVELOPER__
 
 - ADEVINTA CLASSIFIED MEDIA HUNGARY KFT.
-- Tech: PHP, MYSQL, DOCKER, YII2, JAVASCRIPT, KEYCLOAK
+- Tech: PHP, MySQL, Docker, yii2, Javascript, Keycloak
 
 `mar 2019 - may 2019`
 __FRONTEND DEVELOPER INTERN__
 
 - GREENFOX ACADEMY
-- Tech: VUE.JS
+- Tech: vue.js
 
 ### Education
 
