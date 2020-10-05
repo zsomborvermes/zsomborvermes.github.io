@@ -10,10 +10,10 @@ title: Zsombor Vermes
 Software Developer
 
 ### Personal Information
-- born: 1995.02.20
-- email: zsomborvermes@gmail.com
-- phone: 079 051 0563
-- Linkedin: <a href="https://bit.ly/3ldSijN">Linkedin: https://bit.ly/3ldSijN</a>
+- __born:__ 1995.02.20
+- __email:__ zsomborvermes@gmail.com
+- __phone:__ 079 051 0563
+- __Linkedin:__ <a href="https://bit.ly/3ldSijN">https://bit.ly/3ldSijN</a>
 
 ### About
 
