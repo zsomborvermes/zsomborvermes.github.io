@@ -3,7 +3,7 @@ layout: cv
 title: Zsombor Vermes
 ---
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEkK9JmypHnMw/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=_MXTdwG58oS76wGoKTxGCyV5VSFFw8L-bhQ8zeizitM"/>
+<img src="https://uploads-ssl.webflow.com/5e208b658b900b5c02df772d/5f7af553d508143e2f92573f_cv_pic%20(1).jpeg"/>
 
 # Zsombor Vermes
 
@@ -14,15 +14,13 @@ Software Developer.
 | <a href="https://www.linkedin.com/in/zsombor-vermes-318330178/">My Linkedin page</a>
 </div>
 
+### About
 
 An ambitious developer, who is striving to write clean and easily maintainable code. Valuable team member with experience in refactoring and optimizing legacy systems. Mainly interested in backend development, but always ready to expand his knowledge.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
 
 ## Work experience
+
 `may 2019 - sep 2020`
 __BACKEND DEVELOPER__
 
@@ -35,7 +33,7 @@ __FRONTEND DEVELOPER INTERN__
 - GREENFOX ACADEMY
 - Tech: VUE.JS
 
-## Education
+### Education
 
 `nov 2018 - mar 2019`
 __GREENFOX ACADEMY__
@@ -50,7 +48,7 @@ __LINNEAUS UNIVERSITY OF VAXJO__
 - BA degree
 
 
-## Languages
+### Languages
 
 __ENGLISH__
 
