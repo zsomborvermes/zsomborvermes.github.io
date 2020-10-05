@@ -11,7 +11,7 @@ Software Developer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zsomborvermes@gmail.com</a>
-| <a href="https://www.linkedin.com/in/zsombor-vermes-318330178/">My Linkedin page</a>
+| <a href="https://bit.ly/3ldSijN">Linkedin: https://bit.ly/3ldSijN</a>
 </div>
 
 ### About
